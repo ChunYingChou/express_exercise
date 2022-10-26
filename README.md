@@ -15,11 +15,11 @@
   
 1. 打開終端機，Clone此專案到本地電腦
 ```
-git clone https://github.com/ChunYingChou/Restaurant_list.git
+git clone https://github.com/ChunYingChou/express_exercise.git
 ```
 2. 在終端機中輸入以下進入此專案的資料夾
 ```
-cd restaurant_list
+cd express_exercise
 ```
 3. 安裝 npm 套件
 ```
@@ -39,7 +39,7 @@ nodemon app.js
 ```
 7. 當終端機出現以下字樣時，表示伺服器與資料庫已成功連結並啟動
 ```
-Express is listening on localhost:3000
+Express is running on localhost:3000
 ```
 8. 接著打開瀏覽器並在網址列輸入 localhost:3000 即可瀏覽使用
 
